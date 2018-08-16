@@ -1,0 +1,9 @@
+D:\03 - Projets\TAS\TAS\TAS\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\03 - Projets\TAS\TAS\TAS\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\03 - Projets\TAS\TAS\TAS\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\03 - Projets\TAS\TAS\TAS\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\03 - Projets\TAS\TAS\TAS\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\03 - Projets\TAS\TAS\TAS\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\03 - Projets\TAS\TAS\TAS\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\03 - Projets\TAS\TAS\TAS\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\03 - Projets\TAS\TAS\TAS\DAL\obj\Debug\netstandard2.0\DAL.pdb
